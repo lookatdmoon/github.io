@@ -1,0 +1,14 @@
+"*":
+  core:
+    projectHome: "C:\\Desktop"
+    telemetryConsent: "no"
+    themes: [
+      "atom-light-ui"
+      "solarized-light-syntax"
+    ]
+  editor:
+    fontSize: 13
+    showIndentGuide: true
+    softWrap: true
+  "exception-reporting":
+    userId: "c26fb90b-965d-42ce-a95f-e3bd856de2ee"
